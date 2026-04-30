@@ -23,7 +23,7 @@ VALIDATION_PATH = "clean_data/Kaggle/kaggle_validation.csv"
 OUTPUT_DIR = "outputs/distilbert_model"
 
 TEXT_COL = "text"
-LABEL_COL = "generated"   # colonne dans tes CSV : 0 = human, 1 = AI
+LABEL_COL = "generated" 
 
 
 # =====================
